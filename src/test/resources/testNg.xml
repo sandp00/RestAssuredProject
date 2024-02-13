@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Tests Suite">
+    <test name="API Test Suite">
+        <classes>
+            <class name="com.restTest.DemoTestClass"/>
+            <!-- Add more test classes as needed -->
+        </classes>
+    </test>
+</suite>
